@@ -17,7 +17,7 @@ sphinx-jekyll-builder==0.3.0
 ./exporter/opentelemetry-exporter-otlp-proto-grpc
 
 # Required by instrumentation and exporter packages
-grpcio~=1.27
+grpcio~=1.58.3
 Deprecated~=1.2
 django~=4.2
 flask~=2.3
