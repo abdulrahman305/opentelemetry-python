@@ -6,3 +6,4 @@ opentelemetry-instrumentation-sqlite3
 opencensus
 opencensus-ext-flask
 Flask
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
