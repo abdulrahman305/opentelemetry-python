@@ -15,7 +15,7 @@ opencensus-context==0.1.3
 opencensus-proto==0.1.0
 packaging==24.0
 pluggy==1.5.0
-protobuf==3.20.3
+protobuf==4.25.8
 py-cpuinfo==9.0.0
 pyasn1==0.5.1
 pyasn1-modules==0.3.0
