@@ -26,3 +26,4 @@ thrift~=0.10
 wrapt>=1.0.0,<2.0.0
 markupsafe~=2.0
 protobuf==5.26.1
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
